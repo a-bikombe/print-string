@@ -1,2 +1,2 @@
-# Printing Strings
+# Print Strings
 
